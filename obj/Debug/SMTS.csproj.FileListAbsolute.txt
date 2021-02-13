@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\SMTS\bin\Debug\SMTS.dll
+C:\Users\hp\source\repos\SMTS\bin\Debug\SMTS.pdb
+C:\Users\hp\source\repos\SMTS\obj\Debug\SMTS.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\SMTS\obj\Debug\SMTS.UserControl1.resources
+C:\Users\hp\source\repos\SMTS\obj\Debug\SMTS.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\SMTS\obj\Debug\SMTS.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\SMTS\obj\Debug\SMTS.dll
+C:\Users\hp\source\repos\SMTS\obj\Debug\SMTS.pdb
+C:\Users\hp\source\repos\SMTS\bin\Debug\MySql.Data.DLL
+C:\Users\hp\source\repos\SMTS\bin\Debug\Renci.SshNet.dll
+C:\Users\hp\source\repos\SMTS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hp\source\repos\SMTS\obj\Debug\SMTS.csproj.CopyComplete
+C:\Users\hp\source\repos\SMTS\bin\Debug\SMTS.dll.config
+C:\Users\hp\source\repos\SMTS\obj\Debug\SMTS.dashboard.resources
